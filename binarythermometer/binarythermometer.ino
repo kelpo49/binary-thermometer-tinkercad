@@ -1,3 +1,7 @@
+//by: kelpo49
+//for: binary led thermometer
+//date: june 9th 2025
+//license: MIT
 const int sensor = A0; //analog pin from sensor that doesnt change
 float temperaturaf = 0; //store temperature variable
 int leitura = 0; //store reading variable
